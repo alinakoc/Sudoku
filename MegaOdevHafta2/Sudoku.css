@@ -1,0 +1,31 @@
+h1{
+color: blue;
+margin-top: 50px;
+text-align: center;
+font-size: 50px;
+}
+
+body{
+    background-color: rgb(148, 229, 231);
+}
+
+
+
+table{
+    position: relative;
+    margin: auto;
+    border-collapse:collapse;
+    background-color: #fff;
+    border: 10px solid gray;
+    }
+    .s2{
+    width:60px;
+    height:60px;
+    text-align:center;
+    border: 0.5px solid rgb(39, 0, 146);
+    }
+    .s1, .r1{
+    background-color:rgb(197, 65, 160);
+    width: 10px;
+    height:10px;
+    }
